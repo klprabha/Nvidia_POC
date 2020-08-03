@@ -1,0 +1,120 @@
+From:	Lakshmi Prabha Krishnamurthy
+Sent:	Monday, July 27, 2020 9:49 AM
+To:	Kamalam Sivakumar
+Subject:	Fwd: Nvidia POC- Buhler  Use Case Discussion 
+Attachments:	s8276-how-to-use-ngc-containers-on-aws.pdf
+
+
+
+Get Outlook for Android
+ 
+From: Srikanth Bhakthan <srikanthb@hcl.com> 
+Sent: Saturday, July 25, 2020 6:44:13 PM 
+To: Lakshmi Prabha Krishnamurthy <Lakshmi.K@hcl.com>; Gaurav Prakash <gaurav.pr@hcl.com>; 
+Abhishek Kumar <abhishekar@hcl.com>; Gagan Dhamija <gagan.dhamija@hcl.com>; Gaurav Srivastav 
+<gaurav_s@hcl.com> 
+Cc: Rajat Kumar <kumar.rajat@hcl.com> 
+Subject: Re: Nvidia POC- Buhler Use Case Discussion 
+ 
+Team,
+ 
+As we start preparing: This links below may help us to get some understanding.
+ 
+Datasets:
+ 
+Rice:
+https://www.kaggle.com/salazarslytherin/rice-grain-disease-small-dataset
+https://www.kaggle.com/minhhuy2810/rice-diseases-image-dataset? (labelled)
+Code: https://github.com/Mushahid2521/Rice-Grain-Purity-Analysis-Using-Deep-Learning
+Automated Rice Grader: https://github.com/arielcatli/automated-rice-grader
+https://github.com/ichatnun/spatiospectral-densenet-rice-classification
+ 
+Wheat: 
+http://www.global-wheat.com/2020-challenge/
+https://www.kaggle.com/c/global-wheat-detection (code)
+ 
+Peas:
+https://www.imageannotation.ai/dataset/fruits
+ 
+Milling Fleet – Predictive maintenance:
+Have a framework as story: https://ntnuopen.ntnu.no/ntnu-
+xmlui/bitstream/handle/11250/2500192/Zhe%20Li_PhD.pdf?sequence=1&isAllowed=y
+ 
+ 
+ 
+(as discussed) Azure Code for Predictive: https://github.com/Azure-Samples/MachineLearningSamples-
+PredictiveMaintenance
+& more code for MS case study: 
+https://github.com/ashishpatel26/Predictive_Maintenance_using_Machine-
+Learning_Microsoft_Casestudy
+ 
+If AWS route: https://github.com/awslabs/aws-fleet-predictive-maintenance
+ 
+ 
+NVIDIA for AWS (also refer attachment):
+https://github.com/NVIDIA/nvidia-docker/wiki/Deploy-on-Amazon-EC2
+https://aws.amazon.com/marketplace/pp/NVIDIA-NVIDIA-Deep-Learning-AMI/B076K31M1S
+https://aws.amazon.com/blogs/aws/now-available-ec2-instances-g4-with-nvidia-t4-tensor-core-gpus/ 
+(new g4dn series - Tesla T4)
+https://aws.amazon.com/blogs/iot/how-to-integrate-nvidia-deepstream-on-jetson-modules-with-aws-
+iot-core-and-aws-iot-greengrass/
+ 
+Sri
+From: Lakshmi Prabha Krishnamurthy <Lakshmi.K@hcl.com> 
+Date: Friday, 24 July 2020 at 4:50 PM 
+To: Srikanth Bhakthan <srikanthb@hcl.com>, Rajat Kumar <kumar.rajat@hcl.com>, Gaurav 
+Prakash <gaurav.pr@hcl.com>, Abhishek Kumar <abhishekar@hcl.com>, Gagan Dhamija 
+<gagan.dhamija@hcl.com>, Gaurav Srivastav <gaurav_s@hcl.com> 
+Subject: RE: Nvidia POC- Buhler Use Case Discussion 
+ 
+Thanks a lot Srikanth. 
+ 
+From: Srikanth Bhakthan <srikanthb@hcl.com>  
+Sent: Friday, July 24, 2020 4:48 PM 
+To: Lakshmi Prabha Krishnamurthy <Lakshmi.K@hcl.com>; Rajat Kumar <kumar.rajat@hcl.com>; Gaurav 
+Prakash <gaurav.pr@hcl.com>; Abhishek Kumar <abhishekar@hcl.com>; Gagan Dhamija 
+<gagan.dhamija@hcl.com>; Gaurav Srivastav <gaurav_s@hcl.com> 
+Subject: Re: Nvidia POC- Buhler Use Case Discussion 
+ 
+Lakshmi,
+ 
+Scheduled a call for Monday with NVIDIA.
+Let me check on the datasets and reply to you.
+ 
+Sri
+ 
+From: Lakshmi Prabha Krishnamurthy <Lakshmi.K@hcl.com> 
+Date: Friday, 24 July 2020 at 4:35 PM 
+To: Srikanth Bhakthan <srikanthb@hcl.com>, Rajat Kumar <kumar.rajat@hcl.com>, Gaurav 
+Prakash <gaurav.pr@hcl.com>, Abhishek Kumar <abhishekar@hcl.com>, Gagan Dhamija 
+<gagan.dhamija@hcl.com>, Gaurav Srivastav <gaurav_s@hcl.com> 
+Subject: RE: Nvidia POC- Buhler Use Case Discussion 
+ 
+Hi Srikanth, 
+Thanks a lot for your time. PFA the completed Business Use case. 
+As agreed these are our next steps 
+1.	You will take the proposal with Nvidia to run through them to get the expert advice 
+2.	We will check for the data set and also the DGX box connectivity. 
+3.	If DGX doesn’t come up, AWS should be considered as an option. 
+ 
+Thanks, 
+Lakshmi Prabha K. 
+ 
+ 
+ 
+-----Original Appointment----- 
+From: Lakshmi Prabha Krishnamurthy  
+Sent: Wednesday, July 22, 2020 6:36 PM 
+To: Lakshmi Prabha Krishnamurthy; Srikanth Bhakthan; Rajat Kumar; Gaurav Prakash; Abhishek Kumar; 
+Gagan Dhamija; Gaurav Srivastav 
+Subject: Nvidia POC- Buhler Use Case Discussion  
+When: Friday, July 24, 2020 4:00 PM-4:30 PM (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi. 
+Where: Microsoft Teams Meeting
+ 
+Agenda
+*	Buhler POC discussion. 
+________________________________________________________________________________ 
+Join Microsoft Teams Meeting 
+Learn more about Teams | Meeting options 
+________________________________________________________________________________ 
+ 
